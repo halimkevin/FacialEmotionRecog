@@ -1,4 +1,4 @@
-# FacialEmotionRecog
+# FacialEmotionRecognition
 
 This is a convolutional autoencoder neural network that is trained to classify 6 different human facial emotions:
 <li>angry</li>
